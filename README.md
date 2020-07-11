@@ -1,1 +1,1 @@
-# web-study/
+# web-study/web-projects/
